@@ -28,19 +28,19 @@ stages:
     - task: NuGetCommand@2
       displayName: 'NuGet restore'
       inputs:
-        restoreSolution: M6/ECommerce.sln
+        restoreSolution: Ecomm.sln
 
     - task: VSBuild@1
       displayName: 'build solution'
       inputs:
-        solution: M6/ECommerce.sln
+        solution: Ecomm.sln
         platform: x64
         configuration: release
 
     - task: VSBuild@1
       displayName: 'build fabric project'
       inputs:
-        solution: M6/ECommerce/ECommerce.sfproj
+        solution: Ecomm.sln/Ecomm.sfproj
         msbuildArgs: '/t:Package /p:PackageLocation=$(build.artifactstagingdirectory)\pkg'
         platform: x64
         configuration: release
@@ -54,7 +54,7 @@ stages:
     - task: CopyFiles@2
       displayName: 'Copy Files to: $(build.artifactstagingdirectory)'
       inputs:
-        SourceFolder: '$(system.defaultworkingdirectory)\M6\ECommerce'
+        SourceFolder: '$(system.defaultworkingdirectory)\Ecomm'
         Contents: |
           PublishProfiles\*.xml
           ApplicationParameters\*.xml
