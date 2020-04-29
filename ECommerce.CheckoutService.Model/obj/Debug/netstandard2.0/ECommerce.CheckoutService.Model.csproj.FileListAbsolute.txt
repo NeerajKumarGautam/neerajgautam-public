@@ -1,0 +1,12 @@
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\bin\Debug\netstandard2.0\ECommerce.CheckoutService.Model.deps.json
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\bin\Debug\netstandard2.0\ECommerce.CheckoutService.Model.dll
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\bin\Debug\netstandard2.0\ECommerce.CheckoutService.Model.pdb
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\bin\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.dll
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\bin\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.pdb
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\obj\Debug\netstandard2.0\ECommerce.CheckoutService.Model.csprojAssemblyReference.cache
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\obj\Debug\netstandard2.0\ECommerce.CheckoutService.Model.csproj.CoreCompileInputs.cache
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\obj\Debug\netstandard2.0\ECommerce.CheckoutService.Model.AssemblyInfoInputs.cache
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\obj\Debug\netstandard2.0\ECommerce.CheckoutService.Model.AssemblyInfo.cs
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\obj\Debug\netstandard2.0\ECommerce.CheckoutService.Model.csproj.CopyComplete
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\obj\Debug\netstandard2.0\ECommerce.CheckoutService.Model.dll
+D:\D5\ServiceFabric\Ecomm\CheckoutService\ECommerce.CheckoutService.Model\obj\Debug\netstandard2.0\ECommerce.CheckoutService.Model.pdb

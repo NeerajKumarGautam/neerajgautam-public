@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj": {}
+  },
+  "projects": {
+    "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj",
+        "projectName": "ECommerce.CheckoutService.Model",
+        "projectPath": "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj",
+        "packagesPath": "C:\\Users\\gneeraj\\.nuget\\packages\\",
+        "outputPath": "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerce.CheckoutService.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gneeraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj": {
+                "projectPath": "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.ServiceFabric.Services.Remoting": {
+              "target": "Package",
+              "version": "[4.0.470, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj",
+        "projectName": "ECommerse.ProductCatalog.Model",
+        "projectPath": "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj",
+        "packagesPath": "C:\\Users\\gneeraj\\.nuget\\packages\\",
+        "outputPath": "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\ECommerse.ProductCatalog.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gneeraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.ServiceFabric.Services.Remoting": {
+              "target": "Package",
+              "version": "[4.0.470, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+D:\D5\ServiceFabric\Ecomm\Ecomm\Ecomm\obj\x64\Debug\Ecomm.sfproj.CoreCompileInputs.cache
+D:\D5\ServiceFabric\Ecomm\ActorModelImplementation\Ecomm\obj\x64\Debug\Ecomm.sfproj.CoreCompileInputs.cache
+D:\D5\ServiceFabric\Ecomm\CheckoutService\Ecomm\obj\x64\Debug\Ecomm.sfproj.CoreCompileInputs.cache

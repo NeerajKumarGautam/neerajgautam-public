@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "naUi1DrzjDJPRJXihSgGD9UzizqcyigM5NIIpVxlcs7mOrdDm3mC6wzVf+jwkJwREkywEOBqC9BxEPmB7+DLzA==",
+  "success": true,
+  "projectFilePath": "D:\\D5\\ServiceFabric\\Ecomm\\CheckoutService\\UserActor.Interfaces\\UserActor.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric\\7.0.470\\microsoft.servicefabric.7.0.470.nupkg.sha512",
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.actors\\4.0.470\\microsoft.servicefabric.actors.4.0.470.nupkg.sha512",
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.data\\4.0.470\\microsoft.servicefabric.data.4.0.470.nupkg.sha512",
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.0.470\\microsoft.servicefabric.data.extensions.4.0.470.nupkg.sha512",
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.0.470\\microsoft.servicefabric.data.interfaces.4.0.470.nupkg.sha512",
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.0.470\\microsoft.servicefabric.diagnostics.internal.4.0.470.nupkg.sha512",
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\4.0.470\\microsoft.servicefabric.fabrictransport.internal.4.0.470.nupkg.sha512",
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.services\\4.0.470\\microsoft.servicefabric.services.4.0.470.nupkg.sha512",
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\4.0.470\\microsoft.servicefabric.services.remoting.4.0.470.nupkg.sha512"
+  ],
+  "logs": []
+}

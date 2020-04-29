@@ -1,0 +1,16 @@
+D:\D5\ServiceFabric\Ecomm\ActorModelImplementation\UserActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.deps.json
+D:\D5\ServiceFabric\Ecomm\ActorModelImplementation\UserActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.dll
+D:\D5\ServiceFabric\Ecomm\ActorModelImplementation\UserActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.pdb
+D:\D5\ServiceFabric\Ecomm\ActorModelImplementation\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.csproj.CoreCompileInputs.cache
+D:\D5\ServiceFabric\Ecomm\ActorModelImplementation\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.AssemblyInfoInputs.cache
+D:\D5\ServiceFabric\Ecomm\ActorModelImplementation\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.AssemblyInfo.cs
+D:\D5\ServiceFabric\Ecomm\ActorModelImplementation\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.dll
+D:\D5\ServiceFabric\Ecomm\ActorModelImplementation\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.pdb
+D:\D5\ServiceFabric\Ecomm\CheckoutService\UserActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.deps.json
+D:\D5\ServiceFabric\Ecomm\CheckoutService\UserActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.dll
+D:\D5\ServiceFabric\Ecomm\CheckoutService\UserActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.pdb
+D:\D5\ServiceFabric\Ecomm\CheckoutService\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.csproj.CoreCompileInputs.cache
+D:\D5\ServiceFabric\Ecomm\CheckoutService\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.AssemblyInfoInputs.cache
+D:\D5\ServiceFabric\Ecomm\CheckoutService\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.AssemblyInfo.cs
+D:\D5\ServiceFabric\Ecomm\CheckoutService\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.dll
+D:\D5\ServiceFabric\Ecomm\CheckoutService\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.pdb
